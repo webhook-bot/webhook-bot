@@ -1,4 +1,14 @@
 {
   "name": "webhook-bot",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "devDependencies": {
+    "egg-bin": "^4.6.3",
+    "eslint": "^4.19.1",
+    "eslint-config-egg": "^7.0.0"
+  },
+  "dependencies": {
+    "common-bin": "^2.7.3",
+    "egg-core": "^4.6.0",
+    "github": "^14.0.0"
+  }
 }
