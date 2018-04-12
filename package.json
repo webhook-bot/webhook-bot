@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "common-bin": "^2.7.3",
+    "egg": "^2.6.0",
     "egg-core": "^4.6.0",
     "github": "^14.0.0"
   }
